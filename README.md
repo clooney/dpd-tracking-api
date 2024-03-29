@@ -1,9 +1,9 @@
 # TrackingMore: DPD Tracking API
-[DPD Tracking API](https://www.trackingmore.com/dpd-tracking-api.html) enables you to connect tracking info of DPD shipments into your system, improving shipment visibility. 
+[DPD Tracking API](https://www.trackingmore.com/dpd-tracking-api.html) boosts shipment oversight by seamlessly integrating DPD's data into your systems.
 
-Besides DPD, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+TrackingMore extends capabilities with a [unified API](https://www.trackingmore.com/tracking-api) that connects to over 1,200 global carriers, simplifying comprehensive tracking.
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+The TrackingMore API supports seven programming languages, with concise documentation for easy setup and use.
 
 ### Features
    *  Unified real-time tracking information for DPD shipments.
